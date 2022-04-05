@@ -4,4 +4,5 @@ public class Animal {
     void setName(String name) {
         this.name = name;
     }
+
 }

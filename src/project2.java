@@ -9,7 +9,7 @@ public class project2 {
 
         List<Student> studentsBook = new ArrayList<>();
 
-        StudentBook book = new StudentBook();
+        StudentBook book = new StudentBook(1);
 
         PrintStream so = System.out;
 
